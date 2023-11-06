@@ -1,3 +1,4 @@
+export * from './shared/request-info/RequestInfo';
 
 
 export * from './jira/JiraTasks';
